@@ -1,4 +1,4 @@
-public class Client {
+public class Deconat {
     public static void main(String[] args) {
         Teacher teacher=new Teacher();
         Group group1 = new Group("g1", teacher);

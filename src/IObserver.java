@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface IObserver {
+public interface IObserver {
+    public void update(Object o);
 }
